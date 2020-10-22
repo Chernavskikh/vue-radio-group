@@ -1,2 +1,2 @@
 # vue-radio-group
-Simple vue radio example
+Simple vue radio group example
